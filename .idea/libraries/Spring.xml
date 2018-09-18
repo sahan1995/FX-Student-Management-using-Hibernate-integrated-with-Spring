@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="Spring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-aop-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-aspects-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-beans-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-indexer-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-support-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-core-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-expression-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-instrument-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jcl-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jdbc-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jms-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-messaging-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-orm-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-oxm-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-test-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-tx-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-web-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-webflux-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-webmvc-5.0.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-websocket-5.0.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-aop-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-aspects-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-beans-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-indexer-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-support-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-core-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-expression-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-instrument-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jcl-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jdbc-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jms-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-messaging-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-orm-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-oxm-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-test-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-tx-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-web-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-webflux-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-webmvc-5.0.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-websocket-5.0.8.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-aop-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-aspects-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-beans-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-indexer-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-context-support-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-core-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-expression-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-instrument-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jcl-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jdbc-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-jms-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-messaging-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-orm-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-oxm-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-test-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-tx-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-web-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-webflux-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-webmvc-5.0.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar Files/Spring/spring-websocket-5.0.8.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
